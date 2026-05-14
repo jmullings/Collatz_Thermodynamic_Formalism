@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg" alt="Python"/></a>
-  <a href="https://github.com/jmullings/CollatzThermodynamic/actions"><img src="https://github.com/jmullings/CollatzThermodynamic/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
-  <a href="https://doi.org/10.5281/zenodo.19794444"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19794444.svg" alt="DOI"/></a>
-  <a href="https://github.com/jmullings/CollatzThermodynamic/releases"><img src="https://img.shields.io/github/v/release/jmullings/CollatzThermodynamic" alt="Release"/></a>
+  <a href="https://github.com/jmullings/Collatz_Thermodynamic_Formalism/actions"><img src="https://github.com/jmullings/Collatz_Thermodynamic_Formalism/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
+  <a href="https://doi.org/10.5281/zenodo.20042346"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20042346.svg" alt="DOI"/></a>
+  <a href="https://github.com/jmullings/Collatz_Thermodynamic_Formalism/releases"><img src="https://img.shields.io/github/v/release/jmullings/Collatz_Thermodynamic_Formalism" alt="Release"/></a>
   <a href="https://www.youtube.com/@TheAnalystsProblem"><img src="https://img.shields.io/badge/YouTube-TheAnalystsProblem-red.svg" alt="YouTube"/></a>
   <a href="docs/STATUS.md"><img src="https://img.shields.io/badge/status-computationally_certified-orange.svg" alt="Status"/></a>
 </p>
